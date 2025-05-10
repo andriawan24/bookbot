@@ -15,7 +15,7 @@ Analyzing book found at {path}...
 ----------- Word Count ----------
 Found {words_count} total words
 --------- Character Count -------
-"""
+        """
     )
 
     for chars in sorted_chars:
